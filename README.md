@@ -5,5 +5,5 @@
   
 <div display="inline-block">
   <img src= "https://user-images.githubusercontent.com/81825828/224803861-d9d90d3f-0ed5-46b1-aaa0-3dead9794513.png" height=100/>
-  <img src = "https://user-images.githubusercontent.com/81825828/224805635-dcd3802c-76a9-44fb-92fb-27a7a8b8adf2.png" height=100/>
+  <img src = "https://user-images.githubusercontent.com/81825828/224806136-f264a89d-091a-4eb6-a1d5-79ae50bb7b2f.png" height=100/>
 </div>
