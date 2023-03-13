@@ -19,4 +19,4 @@
   <li><a href="https://drive.google.com/file/d/1ppZiy9fw304orz9ixhfGRN1xN3y1XT55/view?usp=sharing"><b>Volga-IT 2022 (2022)</b></a></li>
 </ul>
   <h2 align="center">My activity</h2>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=yeeeip)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=yeeeip)]
