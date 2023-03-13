@@ -12,9 +12,11 @@
   <img src="https://user-images.githubusercontent.com/81825828/224808519-ed6a945f-8414-4197-a29e-5aed87e72748.png" height=100/>
   <img src="https://user-images.githubusercontent.com/81825828/224811538-9e140866-a979-4de6-a8c3-6d0722c66fd2.png" height=100/>
 </div>
-<h2 align="center">My certificates</h2>
+  <h2 align="center">My certificates</h2>
 <ul>
   <li><a href="https://drive.google.com/file/d/1zGXOe9DoYDKUaCpyX84-YyQTEF3Utz7d/view?usp=sharing"><b>Stackers New Year Hackathon Participant (2022)</b></a></li>
   <li><a href="https://drive.google.com/file/d/1MfTskzZSXTfCc3GUXuZcgj47iOE3b3pT/view?usp=sharing"><b>Hackerrank Java Certificate (2022)</b></a></li>
   <li><a href="https://drive.google.com/file/d/1ppZiy9fw304orz9ixhfGRN1xN3y1XT55/view?usp=sharing"><b>Volga-IT 2022 (2022)</b></a></li>
 </ul>
+  <h2 align="center">My activity</h2>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=yeeeip)](https://github.com/ryo-ma/github-profile-trophy)
