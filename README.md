@@ -15,4 +15,6 @@
 <h2 align="center">My certificates</h2>
 <ul>
   <li><a href="https://drive.google.com/file/d/1zGXOe9DoYDKUaCpyX84-YyQTEF3Utz7d/view?usp=sharing"><b>Stackers New Year Hackathon Participant (2022)</b></a></li>
+  <li><a href="https://drive.google.com/file/d/1MfTskzZSXTfCc3GUXuZcgj47iOE3b3pT/view?usp=sharing"><b>Hackerrank Java Certificate (2022)</b></a></li>
+  <li><a href="https://drive.google.com/file/d/1ppZiy9fw304orz9ixhfGRN1xN3y1XT55/view?usp=sharing"><b>Volga-IT 2022</b></a></li>
 </ul>
