@@ -4,5 +4,5 @@
 <h2 align="center">My skills</h2>
 
 
-<img src = "https://user-images.githubusercontent.com/81825828/224802450-49f47e8e-bec7-46e1-8974-c835306640d2.png"/>
-![icons8-java](https://user-images.githubusercontent.com/81825828/224802769-ad5fa1fd-fbf2-432b-811e-825aa14e00c6.gif)
+<img src = "https://user-images.githubusercontent.com/81825828/224802450-49f47e8e-bec7-46e1-8974-c835306640d2.png" height=40/>
+<img src="https://user-images.githubusercontent.com/81825828/224802769-ad5fa1fd-fbf2-432b-811e-825aa14e00c6.gif"/>
