@@ -11,6 +11,7 @@
   <img src="https://user-images.githubusercontent.com/81825828/224807936-118f4b4e-e014-46ed-9807-409db0298692.png" height=100/>
   <img src="https://user-images.githubusercontent.com/81825828/224808519-ed6a945f-8414-4197-a29e-5aed87e72748.png" height=100/>
   <img src="https://user-images.githubusercontent.com/81825828/224811538-9e140866-a979-4de6-a8c3-6d0722c66fd2.png" height=100/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeip"/>
 </div>
   <h2 align="center">My certificates</h2>
 <ul>
