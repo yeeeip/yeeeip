@@ -14,5 +14,5 @@
 </div>
 <h2 align="center">My certificates</h2>
 <ul>
-  <li><a href="https://drive.google.com/file/d/1zGXOe9DoYDKUaCpyX84-YyQTEF3Utz7d/view?usp=sharing"><h3>Stackers New Year Hackathon Participant (2022)</h3></a></li>
+  <li><a href="https://drive.google.com/file/d/1zGXOe9DoYDKUaCpyX84-YyQTEF3Utz7d/view?usp=sharing"><b>Stackers New Year Hackathon Participant (2022)</b></a></li>
 </ul>
