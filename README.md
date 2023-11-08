@@ -6,7 +6,7 @@
 <div display="inline-block">
   <img src= "https://user-images.githubusercontent.com/81825828/224803861-d9d90d3f-0ed5-46b1-aaa0-3dead9794513.png" height=100/>
   <img src = "https://user-images.githubusercontent.com/81825828/224806136-f264a89d-091a-4eb6-a1d5-79ae50bb7b2f.png" height=100/>
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hibernate_logo.svg/320px-Hibernate_logo.svg.png" height=100/>
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hibernate_logo.svg/320px-Hibernate_logo.png" height=100/>
   <img src="https://user-images.githubusercontent.com/81825828/224809290-44efbe7f-a3c4-464a-8928-01bff618587a.png" height=100/>
   <img src="https://user-images.githubusercontent.com/81825828/224807003-88c126d5-f517-4345-a458-d719ed3b2c56.svg" height=100/>
   <img src="https://user-images.githubusercontent.com/81825828/224807936-118f4b4e-e014-46ed-9807-409db0298692.png" height=100/>
