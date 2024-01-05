@@ -15,10 +15,10 @@
   <h2 align="center">My certificates</h2>
 <ul>
   <li><a href="https://drive.google.com/file/d/1qN-7C-QRaswAnbzR3knmaxEAH8t88UqL/view?usp=sharing"><b>Kaggle Advanced SQL course (2024)</b></a></li>
+  <li><a href="https://www.hackerrank.com/certificates/b35c9b0de782"><b>Hackerrank SQL (Basic) Certificate (2023)</b></a></li>
   <li><a href="https://drive.google.com/file/d/1HWC5T9syMPyDnII29PFYsqgAjMy0dKcV/view?usp=sharing"><b>EVRAZ Hackathon Participant (2023)</b></a></li>
   <li><a href="https://drive.google.com/file/d/1zGXOe9DoYDKUaCpyX84-YyQTEF3Utz7d/view?usp=sharing"><b>Stackers New Year Hackathon Participant (2022)</b></a></li>
   <li><a href="https://www.hackerrank.com/certificates/7f9dabd9650b"><b>Hackerrank Java (Basic) Certificate (2022)</b></a></li>
-  <li><a href="https://www.hackerrank.com/certificates/b35c9b0de782"><b>Hackerrank SQL (Basic) Certificate (2023)</b></a></li>
   <li><a href="https://drive.google.com/file/d/1ppZiy9fw304orz9ixhfGRN1xN3y1XT55/view?usp=sharing"><b>Volga-IT 2022 (2022)</b></a></li>
 </ul>
   <h2 align="center">My activity</h2>
