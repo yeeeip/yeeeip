@@ -15,6 +15,7 @@
   <h2 align="center">My certificates</h2>
 <ul>
   <li><a href="https://drive.google.com/file/d/1qN-7C-QRaswAnbzR3knmaxEAH8t88UqL/view?usp=sharing"><b>Kaggle Advanced SQL course (2024)</b></a></li>
+  <li><a href="https://drive.google.com/file/d/1621RqNHjQBlxFa6K-j8aRUbw_sVsdYQZ/view?usp=sharing"><b>Приглашение на финал олимпиады "Я-профессионал" (2024)</b></a></li>
   <li><a href="https://drive.google.com/file/d/1U0tLFQu2OWX5RVPtX-daLwiPv5dTuRAw/view?usp=sharing"><b>Hack & Change Hackathon Participant (2023)</b></a></li>
   <li><a href="https://www.hackerrank.com/certificates/b35c9b0de782"><b>Hackerrank SQL (Basic) Certificate (2023)</b></a></li>
   <li><a href="https://drive.google.com/file/d/1HWC5T9syMPyDnII29PFYsqgAjMy0dKcV/view?usp=sharing"><b>EVRAZ Hackathon Participant (2023)</b></a></li>
