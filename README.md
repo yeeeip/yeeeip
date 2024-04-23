@@ -14,7 +14,7 @@
 
   <div display="inline-block">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeip"/>
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64904055779070ae624ba06c?variant=dark&roadmaps=golang%2Cbackend%2Cjava)](https://roadmap.sh)
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64904055779070ae624ba06c?variant=dark&roadmaps=golang%2Cbackend%2Cjava" alt="roadmap.sh"/></a>
   </div>
   
   <h2 align="center">My certificates</h2>
