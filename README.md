@@ -14,6 +14,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeip"/>
   <h2 align="center">My certificates</h2>
 <ul>
+  <li><a href="https://drive.google.com/file/d/1TLmPaDluX26l52TsjAjw9Gb-o8LEHzH-/view?usp=sharing"><b>Лига приключений от Совкомбанка (3 место)</b></a></li>
   <li><a href="https://drive.google.com/file/d/1qN-7C-QRaswAnbzR3knmaxEAH8t88UqL/view?usp=sharing"><b>Kaggle Advanced SQL course (2024)</b></a></li>
   <li><a href="https://drive.google.com/file/d/1621RqNHjQBlxFa6K-j8aRUbw_sVsdYQZ/view?usp=sharing"><b>Приглашение на финал олимпиады "Я-профессионал" (2024)</b></a></li>
   <li><a href="https://drive.google.com/file/d/1U0tLFQu2OWX5RVPtX-daLwiPv5dTuRAw/view?usp=sharing"><b>Hack & Change Hackathon Participant (2023)</b></a></li>
