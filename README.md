@@ -12,6 +12,9 @@
   <img src="https://user-images.githubusercontent.com/81825828/224807936-118f4b4e-e014-46ed-9807-409db0298692.png" height=100/>
 </div>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeip"/>
+
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64904055779070ae624ba06c?variant=dark&roadmaps=golang%2Cbackend%2Cjava)](https://roadmap.sh)
+  
   <h2 align="center">My certificates</h2>
 <ul>
   <li><a href="https://drive.google.com/file/d/1TLmPaDluX26l52TsjAjw9Gb-o8LEHzH-/view?usp=sharing"><b>Лига приключений от Совкомбанка (2024)</b></a></li>
