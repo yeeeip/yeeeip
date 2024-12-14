@@ -30,6 +30,6 @@
 </ul>
   <h2 align="center">Activity</h2>  
   
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/whyareyousleepy)  
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/whyareyousleepy?theme=nord&border=1&radius=5)  
   
   <img src="https://github-profile-trophy.vercel.app/?username=yeeeip&column=-1&theme=nord&no-bg=true&no-frame=true"/>
