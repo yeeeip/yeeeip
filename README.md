@@ -1,6 +1,7 @@
   <h1 align="center">Hi there, I'm <a href="#" target="_blank">Dmitry</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h2 align="center">Technologies</h2>
+  [TEST](https://t.me/whyareyousleepy)
   
 <div display="inline-block">
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" width="75"></a>
@@ -30,7 +31,4 @@
   <li><a href="https://drive.google.com/file/d/1ppZiy9fw304orz9ixhfGRN1xN3y1XT55/view?usp=sharing"><b>Volga-IT 2022 (2022)</b></a></li>
 </ul>
   <h2 align="center">Activity</h2>
-  <div>
-    [(https://leetcard.jacoblin.cool/SHISH_?theme=dark&font=Days%20One)](https://leetcard.jacoblin.cool/SHISH_?theme=dark&font=Days%20One)
-  </div>
   <img src="https://github-profile-trophy.vercel.app/?username=yeeeip&column=-1&theme=nord&no-bg=true&no-frame=true"/>
