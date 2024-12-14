@@ -8,8 +8,8 @@
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spring-light.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/hibernate-light.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
-  <a href="#"><img src="https://github.com/apache/maven-site/blob/master/content/resources/images/maven-logo-black-on-white.svg" width="50"></a>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
+  <a href="#"><img src="" width="50"></a>
+  <a href="#"><img src="httdfdsfdps://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
 </div>
   
   <h2 align="center">My certificates</h2>
