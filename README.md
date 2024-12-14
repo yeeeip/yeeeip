@@ -8,7 +8,7 @@
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spring-light.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/hibernate-light.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
-  <a href="#"><img src="" width="50"></a>
+  <a href="#"><img src="https://www.svgrepo.com/svg/354051/maven/dssd" width="50"></a>
   <a href="#"><img src="httdfdsfdps://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
 </div>
   
