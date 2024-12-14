@@ -11,11 +11,6 @@
   <img src="https://user-images.githubusercontent.com/81825828/224807003-88c126d5-f517-4345-a458-d719ed3b2c56.svg" height=100/>
   <img src="https://user-images.githubusercontent.com/81825828/224807936-118f4b4e-e014-46ed-9807-409db0298692.png" height=100/>
 </div>
-
-  <div display="inline-block">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeip"/>
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64904055779070ae624ba06c?variant=dark&roadmaps=golang%2Cbackend%2Cjava" alt="roadmap.sh"/></a>
-  </div>
   
   <h2 align="center">My certificates</h2>
 <ul>
